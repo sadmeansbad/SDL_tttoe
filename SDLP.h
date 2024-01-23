@@ -1,4 +1,4 @@
-#include "SDL2/SDL.h"
+#include <SDL2/SDL.h>
 
 int field[3][3];
 int playerX =  1, playerY = 1, move = 0, symbol = 1;
